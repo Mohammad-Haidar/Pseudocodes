@@ -1,3 +1,5 @@
-read input from user and store it in variable a
-read input from user and store it in variable b
-Sum = A+B
+Procedure SumOfTwoNumbers
+  read input from user and store it in variable a
+  read input from user and store it in variable b
+  Sum = A+B
+End Procedure
