@@ -1,5 +1,5 @@
 Procedure SumOfTwoNumbers
-  read input from user and store it in variable A
-  read input from user and store it in variable B
-  Sum = A+B
+  READ input from user and store it in variable A
+  READ input from user and store it in variable B
+  SHOW Sum = A+B
 End Procedure
