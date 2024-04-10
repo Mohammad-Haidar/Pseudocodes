@@ -1,0 +1,18 @@
+Procedure MaximumOfThreeNumbers
+  READ input from user and store it in variable A
+  READ input from user and store it in variable B
+  READ input from user and store it in variable C
+  IF A is greater than B THEN
+    IF A is greater than C THEN
+      SHOW A is the maximum of three numbers
+    ELSE 
+      SHOW C is the maximum of three numbers
+    ENDIF
+  ELSE
+    IF B is greater than C THEN
+      SHOW B is the maximum of three numbers
+    ELSE 
+      SHOW C is the maximum of three numbers
+    ENDIF
+  ENDIF
+End Procedure
