@@ -1,0 +1,8 @@
+Procedure CheckEvenOrOdd
+  READ input from user and store it in variable A
+  IF A divided by 2 remainder is 0 THEN
+    SHOW A is Even
+  ELSE
+    SHOW A is Odd
+  ENDIF
+End Procedure
