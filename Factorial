@@ -1,0 +1,12 @@
+Procedure Factorial
+  READ input from user and store it in variable N
+  IF N is equal to 0
+    SHOW 1
+  ELSE
+    Result=1
+    FOR iteration from 1 to N
+      Result=Result*i
+    ENDFOR
+    SHOW Result
+  ENDIF
+End Procedure
