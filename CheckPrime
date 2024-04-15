@@ -1,0 +1,6 @@
+Procedure CheckPrime
+    Input: num (a positive integer)
+    Output: result (prime or not prime)
+    
+    
+End Procedure
