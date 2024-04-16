@@ -1,0 +1,6 @@
+Procedure SwapNumbers
+  READ input and store in variable A and B
+  Put the value of variable A in another variable like Temp
+  Take the value of variable B and put in variable A
+  Now take the value of Temp variable and put in variable B
+End Procedure
