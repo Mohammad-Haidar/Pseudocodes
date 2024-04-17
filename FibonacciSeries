@@ -1,0 +1,12 @@
+Procedure FibonacciSeries
+  Input: limit (upper limit for Fibonacci series)
+  SET firstNum = 0, secondNum = 1, nextNum = 0
+  DISPLAY firstNum and secondNum as the first two numbers of the series
+  Repeat line 6 to 8 until nextNum is less than or equal to n
+  nextNum = firstNum + secondNum
+  IF nextNum is less than or equal to n
+    DISPLAY nextNum
+  ENDIF
+  firstNum = secondNum
+  secondNum = nextNum  
+End Procedure
