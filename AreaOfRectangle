@@ -1,0 +1,6 @@
+Procedure AreaOfRectangle
+  READ the first input and keep it in variable L
+  READ the second input and keep it in variable W
+  Multiply the value of L and the value of W and keep it in a new variable A
+  SHOW A
+End Procedure
